@@ -5,7 +5,7 @@ def comtotal(qty,unitp):
     total=qty*unitp
     global tax
     tax=total*.07
-    return total,tax
+    return 
 
 
 
